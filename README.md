@@ -11,20 +11,10 @@ This repo serves as my organized workspace for all course requirements, includin
 - Reflection papers
 
 👤 Student Information
-- Name:Loreanne L. Rodelas
-- Course/Section:BSIT - 4H
-- Instructor:Jenkielyn C. Torres
+- Name: Loreanne L. Rodelas
+- Course/Section: BSIT - 4H
+- Instructor: Jenkielyn C. Torres
 - School Year: 2026-2027
-
-📂 Repository Structure
-cloud-computing-course/
-├── activities/
-├── projects/
-├── notes/
-├── reflections/
-└── README.md
-
-
 
 📖 Key Concepts Covered
 - Cloud Computing Basics
