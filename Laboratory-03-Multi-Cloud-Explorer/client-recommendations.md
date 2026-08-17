@@ -57,11 +57,15 @@ Amazon Web Services (AWS) is recommended because it provides a large global infr
 
 ---
 
-## Summary
+# Multi-Cloud Decision Matrix
 
-| Client | Recommended Platform | Main Reason |
+The following decision matrix recommends the most appropriate cloud platform based on different business requirements.
+
+| Business Requirement | Recommended Platform | Justification |
 |---|---|---|
-| **Client A – Startup** | **Google Cloud Platform (GCP)** | Cost-effective and scalable services for rapidly growing applications |
-| **Client B – University** | **Microsoft Azure** | Strong integration with Windows Server, Microsoft 365, and Active Directory |
-| **Client C – AI Research** | **Google Cloud Platform (GCP)** | High-performance AI/ML infrastructure with GPUs and TPUs |
-| **Client D – Global E-Commerce** | **Amazon Web Services (AWS)** | Global infrastructure, high availability, and automatic scaling |
+| **Startup Company** | Google Cloud Platform (GCP) | GCP provides scalable, managed, and serverless services that can help startups control infrastructure costs while allowing applications to grow. |
+| **Enterprise Organization** | Amazon Web Services (AWS) | AWS offers a broad range of enterprise services, strong security features, high availability, and extensive global infrastructure. |
+| **Microsoft Environment** | Microsoft Azure | Azure provides excellent integration with Windows Server, Microsoft 365, Active Directory, and other Microsoft technologies. |
+| **AI / Machine Learning** | Google Cloud Platform (GCP) | GCP provides powerful AI and ML services through Vertex AI and supports high-performance GPU and TPU computing. |
+| **Kubernetes Deployment** | Google Cloud Platform (GCP) | GCP offers Google Kubernetes Engine (GKE), a managed Kubernetes service designed to simplify Kubernetes deployment and management. |
+| **Global Web Application** | Amazon Web Services (AWS) | AWS provides extensive global infrastructure, automatic scaling, load balancing, and content delivery services for applications serving users worldwide. |
