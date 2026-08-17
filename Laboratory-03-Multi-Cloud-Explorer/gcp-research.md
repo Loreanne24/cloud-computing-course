@@ -92,13 +92,8 @@ Google Cloud can be used by enterprises for:
 
 Add a screenshot of the official Google Cloud homepage here.
 
-![Google Cloud Official Homepage](images/gcp-homepage.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/21deb36a-2fd0-49d9-bacf-453cee4bc3a4" />
 
-### Google Cloud Console
-
-If you have access to the Google Cloud Console, add a screenshot here.
-
-![Google Cloud Console](images/gcp-console.png)
 
 ## Sources
 
