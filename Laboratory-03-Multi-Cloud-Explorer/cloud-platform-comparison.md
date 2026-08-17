@@ -30,6 +30,12 @@ Google Cloud is particularly strong in artificial intelligence, data analytics, 
 
 I would personally choose Google Cloud Platform because of its strong capabilities in artificial intelligence, data analytics, and Kubernetes. These technologies are useful for modern applications and provide opportunities to develop scalable and intelligent cloud-based systems.
 
-## Conclusion
+# Match the Cloud Services
 
-AWS, Microsoft Azure, and Google Cloud Platform all provide powerful cloud computing services, but each platform has different strengths. AWS is a strong choice for organizations that need a broad range of cloud services, Azure is well suited for enterprises that rely heavily on Microsoft technologies, and Google Cloud is particularly suitable for organizations focused on artificial intelligence, analytics, and Kubernetes.
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| **Identity Management** | AWS Identity and Access Management (IAM) | Microsoft Entra ID | Google Cloud Identity and Access Management (IAM) |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon Elastic Kubernetes Service (EKS) | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
