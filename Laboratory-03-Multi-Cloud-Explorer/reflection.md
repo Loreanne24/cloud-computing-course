@@ -1,0 +1,11 @@
+# Reflection
+
+During this mission, the cloud platform that impressed me the most was **Amazon Web Services (AWS)**. I was impressed by its wide range of services, global infrastructure, and flexibility for different types of applications. AWS provides many tools for computing, storage, databases, networking, security, and other cloud needs, making it suitable for both small projects and large enterprise systems.
+
+AWS, Microsoft Azure, and Google Cloud Platform (GCP) have many similarities. All three provide scalable and flexible cloud computing services, including virtual machines, storage, databases, networking, security, and monitoring tools. They also follow a **pay-as-you-go** model, allowing businesses to use resources based on their needs instead of purchasing and maintaining expensive physical infrastructure. Each platform also provides management consoles and command-line tools for managing cloud resources.
+
+Business requirements strongly influence cloud platform selection. A company needs to consider factors such as **budget, performance, scalability, security, compliance, existing technology, and employee skills**. The best cloud platform is not necessarily the one with the most services, but the one that matches the organization's specific goals and requirements.
+
+Acting as a **Cloud Solutions Consultant** taught me that recommending a cloud platform requires more than simply knowing what each provider offers. I learned to analyze requirements, compare available services, consider costs and limitations, and choose solutions based on the actual needs of a business. I also learned that cloud computing requires careful planning to ensure reliability, security, scalability, and cost efficiency.
+
+After completing this mission, my **GitHub Cloud Computing Portfolio** has improved significantly. It now contains organized research, comparisons, recommendations, and documentation about AWS, Azure, and GCP. Completing the activities also improved my ability to use GitHub for version control and documentation. Overall, this mission gave me a better understanding of cloud technologies and increased my confidence in designing and recommending cloud solutions.
