@@ -82,16 +82,7 @@ AWS can be used by enterprises for:
 ## Screenshot Evidence
 
 ### AWS Official Homepage
-
-Add a screenshot of the official AWS homepage here.
-
-![AWS Official Homepage](images/aws-homepage.png)
-
-### AWS Management Console
-
-If you have access to the AWS Management Console, add a screenshot here.
-
-![AWS Management Console](images/aws-console.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6f0edb23-b390-4918-bb9b-6a025a5b7912" />
 
 ## Sources
 
