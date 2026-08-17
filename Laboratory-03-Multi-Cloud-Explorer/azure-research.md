@@ -87,15 +87,8 @@ Azure can be used by enterprises for:
 
 ### Azure Official Homepage
 
-Add a screenshot of the official Azure homepage here.
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/3278d2c5-8876-484c-b9e7-2a116f2670b6" />
 
-![Azure Official Homepage](images/azure-homepage.png)
-
-### Azure Portal
-
-If you have access to the Azure Portal, add a screenshot here.
-
-![Azure Portal](images/azure-portal.png)
 
 ## Sources
 
