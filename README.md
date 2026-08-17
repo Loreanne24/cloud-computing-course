@@ -10,13 +10,13 @@ This repo serves as my organized workspace for all course requirements, includin
 - Mini-projects
 - Reflection papers
 
-👤 Student Information
+## 👤 Student Information
 - Name: Loreanne L. Rodelas
 - Course/Section: BSIT - 4H
 - Instructor: Jenkielyn C. Torres
 - School Year: 2026-2027
 
-📖 Key Concepts Covered
+## 📖 Key Concepts Covered
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
 - Deployment Models (Public, Private, Hybrid, Community)
