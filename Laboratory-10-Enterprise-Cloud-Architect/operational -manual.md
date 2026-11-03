@@ -47,7 +47,7 @@
 
 This operational manual provides the technical documentation and procedures for deploying, securing, and maintaining a production-ready **WordPress and MySQL application stack**.
 
-The infrastructure runs on **Ubuntu Server 24.04** within a VirtualBox hypervisor, implementing a secure multi-tier architecture designed for reliability, isolation, and data protection.
+The infrastructure runs on **Ubuntu Server 26.04** within a VirtualBox hypervisor, implementing a secure multi-tier architecture designed for reliability, isolation, and data protection.
 
 The environment incorporates the following operational capabilities:
 
