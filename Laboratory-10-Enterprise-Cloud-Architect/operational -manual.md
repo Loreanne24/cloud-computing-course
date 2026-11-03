@@ -14,10 +14,10 @@
 |:---|:---|
 | **Project** | Secure Multi-Tier Web Application |
 | **Application Stack** | WordPress + MySQL 8.0 |
-| **Prepared By** | [Your Name(s)] |
-| **Section** | BSIT 2A |
+| **Prepared By** | [Rodelas, Loreanne L., Dela Cruz, Ivan Daryll C., Ferrer Jr., Juan Renne V., Leal, Lorie Jane, Belmoro, Edrwin] |
+| **Section** | BSIT 4H |
 | **Instructor** | Jenkielyn C. Torres |
-| **Date** | [Month Year] |
+| **Date** | [October 2026] |
 
 <br>
 
