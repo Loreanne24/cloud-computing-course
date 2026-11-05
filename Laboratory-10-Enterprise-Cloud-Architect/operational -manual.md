@@ -19,7 +19,7 @@ md = r'''<div align="center">
 | | Dela Cruz, Ivan Daryll C. |
 | | Ferrer Jr., Juan Renne V. |
 | | Leal, Lorie Jane |
-| | Belmoro, Edwin |
+| | Belmoro, Edwin P. |
 | **Section** | BSIT 4H |
 | **Instructor** | Jenkielyn C. Torres |
 | **Date** | September 2026 |
@@ -706,7 +706,3 @@ The following commands are useful for routine Docker application management.
 
 </div>
 '''
-
-out = "/mnt/data/CCM101_Enterprise_Cloud_Architect_Operational_Manual.md"
-pypandoc.convert_text(md, "md", format="md", outputfile=out, extra_args=["--standalone"])
-print(f"Created: {out}\nSize: {os.path.getsize(out):,} bytes")
