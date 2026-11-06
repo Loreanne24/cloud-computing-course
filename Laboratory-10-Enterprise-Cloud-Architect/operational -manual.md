@@ -98,7 +98,7 @@ The project implements a six-layer architecture, separating the physical host, v
 
 **Reference Architecture Diagram:**
 
-> Insert `architecture-diagram.png` here.
+architecture-diagram.png
 
 ## 2.2 Architecture Components
 
