@@ -1,8 +1,8 @@
 # Laboratory 10 — Mission 10: The Enterprise Cloud Architect
 
-**Student:** Rodelas, Loreanne L., Dela Cruz, Ivan Daryll C., | **Section:** BSIT 4H
+**Student:** Rodelas, Loreanne L., Dela Cruz, Ivan Daryll C., Ferrer Jr., Juan Renne V., Leal, Lorie Jane, Belmoro, edwin P.| **Section:** BSIT 4H
 **Stack:** WordPress + MySQL 8.0 (Docker Compose)
-**Host:** VirtualBox + Ubuntu Server 24.04 LTS
+**Host:** VirtualBox + Ubuntu Server 26.04 LTS
 
 ## Files
 | File | Purpose |
